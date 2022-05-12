@@ -1,2 +1,3 @@
 = Test wiki Start Page
 
+include::included.adoc[]
